@@ -12,7 +12,7 @@ A simple space-shooter game built in Scratch for Harvard’s CS50x.
 [Try it on Scratch](https://scratch.mit.edu/projects/1193391011/)
 
 ## Screenshot
-![Space Fighter screenshot](screenshot.png)
+![Space Fighter screenshot](Screenshot 2025-06-30 133824.png)
 
 ## What I Learned
 - Cloning and broadcasting in Scratch  
