@@ -2,18 +2,19 @@
 
 A simple space-shooter game built in Scratch for Harvard’s CS50x.
 
-## 🎮 How to Play
-- **Left / Right arrows** to move your ship  
-- **Dodge** the falling debris  
-- Survive as long as you can — your score increases every second!
+## Instructions on How to Play
+- **Up / Down arrows** to move your ship  
+- **Dodge** the falling debris using those arrows
+- Use space bar to attack the debris
+- Survive as long as you can — your score increases as you attack the debris
 
-## 🔗 Play Online
+## Play Online
 [Try it on Scratch](https://scratch.mit.edu/projects/1193391011/)
 
-## 📸 Screenshot
+## Screenshot
 ![Space Fighter screenshot](screenshot.png)
 
-## 🧠 What I Learned
+## What I Learned
 - Cloning and broadcasting in Scratch  
 - Collision detection  
 - Organizing logic into custom blocks
