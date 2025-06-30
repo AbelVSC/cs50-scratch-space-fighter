@@ -4,7 +4,7 @@ A simple space-shooter game built in Scratch for Harvard’s CS50x.
 
 ## Instructions on How to Play
 - **Up / Down arrows** to move your ship  
-- **Dodge** the falling debris using those arrows
+- **Dodge** the falling debris using those arrow keys
 - Use space bar to attack the debris
 - Survive as long as you can — your score increases as you attack the debris
 
